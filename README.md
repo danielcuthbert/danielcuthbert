@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on the global advertising [!tracker](https://github.com/danielcuthbert/trackers) network and my [!car](https://github.com/danielcuthbert/Carhacking) stuff
+- 🔭 I’m currently working on the global advertising [tracker](https://github.com/danielcuthbert/trackers) network and my [car](https://github.com/danielcuthbert/Carhacking) stuff
 - 🌱 I’m currently learning embedded development and hardware stuffs
-- 👯 I’d love for you to help with the [!OWASP ASVS](https://github.com/owasp/asvs) to make it even more awesome and usable
+- 👯 I’d love for you to help with the [OWASP ASVS](https://github.com/owasp/asvs) to make it even more awesome and usable
 
