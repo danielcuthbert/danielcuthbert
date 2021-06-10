@@ -1,7 +1,9 @@
 ### Hello.
-[![MasterHead](wg.jpg)]
+[![MasterHead](banner.jpg)]
 
 [![Daniel Cuthbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcuthbert&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielcuthbert)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **danielcuthbert/danielcuthbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
